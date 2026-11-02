@@ -1,4 +1,4 @@
-package io.github.mouralucas04.journal.ui.theme
+package io.github.mouralucas04.journalapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

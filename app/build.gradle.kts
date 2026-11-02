@@ -4,13 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "io.github.mouralucas04.journal"
+    namespace = "io.github.mouralucas04.journalapp"
+    testOptions.unitTests.isIncludeAndroidResources = true
+
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "io.github.mouralucas04.journal"
+        applicationId = "io.github.mouralucas04.journalapp"
         minSdk = 28
         targetSdk = 37
         versionCode = 1

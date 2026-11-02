@@ -1,6 +1,5 @@
-package io.github.mouralucas04.journal.ui.theme
+package io.github.mouralucas04.journalapp.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

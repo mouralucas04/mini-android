@@ -1,4 +1,4 @@
-package io.github.mouralucas04.journal
+package io.github.mouralucas04.journalapp
 
 import org.junit.Test
 
